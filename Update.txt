@@ -1,8 +1,8 @@
 1.0.6
-https://www.dropbox.com/scl/fi/hkh0sxgge9fkdpqe83ion/AE-Plus.exe?rlkey=vjnuk8dpaxcy5xlp3vfkzzgdd&st=bmb0fdqb&dl=0
+https://github.com/TheDigitalDecay83/AE-Plus/blob/main/AE%20Plus.exe
 
 
 [Update]
 Version=1.0.6
-URL=https://www.dropbox.com/scl/fi/hkh0sxgge9fkdpqe83ion/AE-Plus.exe?rlkey=vjnuk8dpaxcy5xlp3vfkzzgdd&st=bmb0fdqb&dl=0
+URL=https://github.com/TheDigitalDecay83/AE-Plus/blob/main/AE%20Plus.exe
 
